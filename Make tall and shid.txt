@@ -52,3 +52,4 @@ rm()
 wait(0.5)
 Humanoid:FindFirstChild("HeadScale"):Destroy()
 wait(1)
+--[[ Oh and Don't be retarded, actually use the script as intended, this wont work on r6 or some Morphed Rthro games. ]]
