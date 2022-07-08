@@ -9,4 +9,4 @@ end
 game.ReplicatedStorage:WaitForChild("Constants")
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Niverse-U/Pull/main/MeepCrackInsurance'))()
-ontp("if not game:IsLoaded() then game.Loaded:Wait() end wait(3) if not game.Players.LocalPlayer.Character then game.Players.LocalPlayer.CharacterAdded:Wait() end loadstring(game:HttpGet('https://raw.githubusercontent.com/Niverse-U/Script/main/Meepcrack'))()")
+ontp("if not game:IsLoaded() then game.Loaded:Wait() end wait(3) if not game.Players.LocalPlayer.Character then game.Players.LocalPlayer.CharacterAdded:Wait() end loadstring(game:HttpGet('https://raw.githubusercontent.com/Niverse-U/Script/main/Meepcrack.lua'))()")
